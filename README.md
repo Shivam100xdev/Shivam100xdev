@@ -13,8 +13,8 @@ const intro = {
   name: "Shivam",
   type: "Programmer",
   inProgress: "ML",
-  stack: ["js", "ts", "html5", "css", "c", "java", "python", "rust", "go"],
-  tools: ["NextJs", "React", "Tailwind", "Bootstrap", "NodeJs", "Redis", "Docker", "linux"],
+  stack: ["js", "ts", "html5", "css", "c", "java", "python",  "go"],
+  tools: ["NextJs", "React", "Tailwind", "Bootstrap", "NodeJs",  "Docker"],
   proficient: "Backend",
   onGoingWorks: {
     project: [
