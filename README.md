@@ -27,50 +27,8 @@ const intro = {
 ```
 
 ---
-
-## 🛠️ Languages and Tools
-
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-
----
-
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam100xdev&layout=donut&theme=tokyonight&langs_count=3" alt="Top Languages" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivam100xdev&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam100xdev&theme=tokyo-night" alt="Contribution Graph" />
-</p>
-
----
-
-## 🌟 Most Starred Repo
-
-[![B-W-Web](https://github-readme-stats.vercel.app/api/pin/?username=Shivam100xdev&repo=B-W-Web&theme=tokyonight)](https://github.com/Shivam100xdev/B-W-Web)
-
----
-
-## 📬 Connect With Me
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white)](https://discord.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Shivam100xdev)
+<p> <a href="https://github.com/Shivam100xdev"><img width="32px" height="32px" title="GitHub" alt="GitHub" src="https://img.icons8.com/?size=100&id=106562&format=png&color=9F4BFF"></a> &#8287;&#8287; <a href="https://linkedin.com/in/Shivam100xdev" target="blank"><img width="32px" height="32px" title="linkedin" alt="linkedin" src="https://img.icons8.com/?size=100&id=8808&format=png&color=9F4BFF"></a> </p>
+<h4 align="left">Languages and Tools:</h4>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=11670&format=png&color=9F4BFF" alt="arduino" width="40" height="40"/></a> &#8287; <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=K6tPX3M1iHhY&format=png&color=9F4BFF" alt="c" width="40" height="40"></a> &#8287; <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=38272&format=png&color=9F4BFF" alt="css3" width="40" height="40"/></a> &#8287; <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=7hA5Ny9rDAmV&format=png&color=9F4BFF" alt="html5" width="40" height="40"/></a> &#8287; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=102838&format=png&color=9F4BFF" alt="javascript" width="40" height="40"/></a> &#8287; <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=39855&format=png&color=9F4BFF" alt="mysql" width="40" height="40"/></a> &#8287; <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=86631&format=png&color=9F4BFF" alt="photoshop" width="40" height="40"/></a> &#8287; <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=24045&format=png&color=9F4BFF" alt="python" width="40" height="40"/></a> &#8287; <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=35989&format=png&color=9F4BFF" alt="react" width="40" height="40"/></a> &#8287; <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=UpSCHTwpywad&format=png&color=9F4BFF" alt="tailwind" width="40" height="40"/></a> &#8287; <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=54087&format=png&color=9F4BFF" alt="nodejs" width="40" height="40"/></a> &#8287; <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=9F4BFF" alt="expressjs" width="40" height="40"/></a> &#8287; <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=22813&format=png&color=9F4BFF" alt="docker" width="40" height="40"/></a> &#8287; <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=13679&format=png&color=9F4BFF" alt="java" width="40" height="40"/></a> &#8287; <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=20906&format=png&color=9F4BFF" alt="git" width="40" height="40"/></a> </p>
+<h4>STATS</h4>
+<p> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivam100xdev&theme=midnight_purple" width="40%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivam100xdev&theme=midnight_purple" width="40%"> </p> <p> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam100xdev&theme=midnight_purple" width="80%"> </p>
