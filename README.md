@@ -1,47 +1,36 @@
-<!-- ========================================================= -->
-
-<!--                    SHIVAM KUMAR README                    -->
-
-<!-- ========================================================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0717,50:6A00FF,100:B026FF&height=180&section=header&text=Shivam%20Kumar&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090014,50:3B0764,100:8B2BE2&height=210&section=header&text=Hi,%20I'm%20Shivam%20Kumar%20👋&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%20•%20%20Problem%20Solver%20%20•%20%20ML%20Enthusiast&descAlignY=65&descSize=17"/>
 
 </div>
-
-<!-- ======================= SOCIALS ========================= -->
 
 <div align="center">
 
 <a href="https://github.com/Shivam100xdev">
-<img src="https://img.shields.io/badge/GitHub-100xdev-0D0717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-100XDEV-15101F?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
-
 <a href="https://linkedin.com/in/Shivam100xdev">
-<img src="https://img.shields.io/badge/LinkedIn-Shivam%20Kumar-6A00FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-SHIVAM%20KUMAR-7C3AED?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
-
 <a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-Contact-B026FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-A855F7?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=Shivam100xdev&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Shivam100xdev&label=PROFILE%20VIEWS&color=9333EA&style=for-the-badge"/>
 
 </div>
 
 <br>
 
-<!-- ======================= TERMINAL ======================== -->
-
-<h2>⚡ &nbsp; WHOAMI</h2>
+<!-- ========================== ABOUT ========================== -->
 
 <table>
 <tr>
-<td width="55%">
+<td width="52%" valign="top">
+
+<h2>👨‍💻 About Me</h2>
 
 ```text
-┌──[shivam@github]─[~]
+┌─[shivam@github]─[~]
 │
 ├─ $ whoami
 │
@@ -51,7 +40,7 @@
 │
 │  Full Stack Developer
 │
-├─ $ interests
+├─ $ focus
 │
 │  Web Development
 │  Machine Learning
@@ -63,114 +52,126 @@
 │  Build → Learn → Improve
 │
 └─ $ status
-   ● Currently Building
+   ● Building something useful...
 ```
 
 </td>
 
-<td width="45%">
+<td width="48%" valign="middle">
 
-<h3>🚀 About Me</h3>
+<h2>🚀 What I Do</h2>
 
-I'm a developer who enjoys turning ideas into **real, usable software**.
-
-I work across the stack — from designing interfaces and APIs to databases, machine learning models and deployment.
+I build **practical software solutions** that combine modern web technologies, APIs, databases and machine learning.
 
 <br>
 
-🎯 **Focus:** Building practical solutions
+🎯 **Detail Oriented**
 
-⚡ **Strength:** Learning by building
+⚡ **Fast Learner**
 
-🧠 **Interests:** AI • Data • Web • Automation
+🧠 **Problem Solver**
 
-🚀 **Philosophy:** Build > Talk
+🚀 **Always Building**
+
+<br>
+
+> **Turning ideas into working software.**
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-# 🧰 TECH STACK
+<!-- ========================== TECH STACK ========================== -->
 
-<div align="center">
+<h2>⚡ TECH STACK</h2>
 
-### 👨‍💻 Languages
+<table>
+<tr>
+<td align="center">
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript&theme=dark"/>
 
-### 🌐 Frontend
+</td>
+</tr>
+
+<tr>
+<td align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark"/>
 
-### ⚙️ Backend
+</td>
+</tr>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python&theme=dark"/>
+<tr>
+<td align="center">
 
-### 🗄️ Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mysql,postgresql&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark"/>
+</td>
+</tr>
 
-### 🤖 Data / ML
-
-<img src="https://skillicons.dev/icons?i=python,sklearn&theme=dark"/>
-
-### 🛠️ Tools
+<tr>
+<td align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman&theme=dark"/>
 
-</div>
+</td>
+</tr>
+</table>
 
----
+<br>
 
-# 📊 GITHUB COMMAND CENTER
+<!-- ========================== STATS ========================== -->
+
+<h2>📊 GITHUB COMMAND CENTER</h2>
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="33%" align="center">
 
-### 📈 GitHub Statistics
+### 📈 GITHUB STATS
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shivam100xdev&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0717&title_color=B026FF&icon_color=8A2BE2&text_color=FFFFFF&rank_icon=github"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shivam100xdev&show_icons=true&hide_border=true&bg_color=0D0717&title_color=C084FC&icon_color=A855F7&text_color=E9D5FF&include_all_commits=true&count_private=true"/>
 
 </td>
 
-<td width="50%">
+<td width="33%" align="center">
 
-### 🔥 Contribution Streak
+### 🔥 STREAK
 
-<img src="https://streak-stats.demolab.com?user=Shivam100xdev&theme=midnight-purple&hide_border=true&background=0D0717&ring=B026FF&fire=FF4DFF&currStreakLabel=B026FF"/>
+<img src="https://streak-stats.demolab.com?user=Shivam100xdev&hide_border=true&background=0D0717&ring=A855F7&fire=C084FC&currStreakLabel=C084FC&sideLabels=E9D5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF"/>
+
+</td>
+
+<td width="33%" align="center">
+
+### 🧠 LANGUAGES
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam100xdev&layout=donut&hide_border=true&bg_color=0D0717&title_color=C084FC&text_color=FFFFFF"/>
 
 </td>
 
 </tr>
 </table>
 
----
+<br>
 
-# 🧠 TOP LANGUAGES
+<!-- ========================== CONTRIBUTIONS ========================== -->
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam100xdev&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0D0717&title_color=B026FF&text_color=FFFFFF"/>
-
-</div>
-
----
-
-# 🟣 CONTRIBUTION MATRIX
+<h2>🟣 CONTRIBUTION MATRIX</h2>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam100xdev&bg_color=0D0717&color=B026FF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true&custom_title=Shivam's%20Contribution%20Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam100xdev&bg_color=0D0717&color=C084FC&line=A855F7&point=FFFFFF&area_color=7E22CE&area=true&hide_border=true&custom_title=Shivam100xdev%20Contribution%20Graph"/>
 
 </div>
 
----
+<br>
 
-# 🏆 GITHUB TROPHIES
+<!-- ========================== TROPHIES ========================== -->
 
 <div align="center">
 
@@ -178,18 +179,24 @@ I work across the stack — from designing interfaces and APIs to databases, mac
 
 </div>
 
----
+<br>
 
-# 🚀 FEATURED PROJECTS
+<!-- ========================== PROJECTS ========================== -->
+
+<h2>🚀 FEATURED PROJECTS</h2>
 
 <table>
 <tr>
 
-<td width="33%">
+<td width="33%" valign="top">
 
-### 💰 Gig Worker Tax Automation
+<h3>💰 Gig Worker Tax Automation</h3>
 
-A platform designed to automate:
+Automated tax and compliance platform for gig workers.
+
+<br>
+
+**Features**
 
 * Income aggregation
 * Tax calculation
@@ -197,50 +204,68 @@ A platform designed to automate:
 * Compliance analysis
 * ITR-ready data
 
-**Stack**
+<br>
 
 `React` `FastAPI` `Python` `MySQL`
 
-<br>
+<br><br>
 
 <a href="https://github.com/Shivam100xdev">
-View Project →
+<b>VIEW PROJECT →</b>
 </a>
 
 </td>
 
-<td width="33%">
+<td width="33%" valign="top">
 
-### 🎬 Movie Sentiment Analysis
+<h3>🎬 Movie Sentiment Analysis</h3>
 
-NLP-based sentiment analysis system using machine learning to classify movie reviews and dialogue.
-
-**Stack**
-
-`Python` `Flask` `TF-IDF` `XGBoost`
+NLP-based sentiment analysis system for movie reviews and dialogue.
 
 <br>
 
+**Technology**
+
+* TF-IDF
+* XGBoost
+* NLP
+* Flask API
+
+<br>
+
+`Python` `Flask` `XGBoost`
+
+<br><br>
+
 <a href="https://github.com/Shivam100xdev">
-View Project →
+<b>VIEW PROJECT →</b>
 </a>
 
 </td>
 
-<td width="33%">
+<td width="33%" valign="top">
 
-### 📈 Gold Price Prediction
+<h3>📈 Gold Price Prediction</h3>
 
-Machine learning model for predicting gold prices using historical market data.
-
-**Stack**
-
-`Python` `Pandas` `XGBoost`
+Machine learning system for predicting gold prices using historical data.
 
 <br>
 
+**Technology**
+
+* XGBoost
+* Pandas
+* Scikit-learn
+* Data visualization
+
+<br>
+
+`Python` `XGBoost` `Pandas`
+
+<br><br>
+
 <a href="https://github.com/Shivam100xdev">
-View Project →
+<b>VIEW PROJECT →</b>
 </a>
 
 </td>
@@ -248,129 +273,169 @@ View Project →
 </tr>
 </table>
 
----
+<br>
 
-# 🏗️ CURRENT BUILD
+<!-- ========================== CURRENT BUILD ========================== -->
+
+<h2>🏗️ CURRENTLY BUILDING</h2>
 
 <div align="center">
 
 ```text
-             ┌─────────────────────┐
-             │      USER INPUT     │
-             └──────────┬──────────┘
+             ┌──────────────────────┐
+             │      GIG WORKER      │
+             │        INPUT         │
+             └──────────┬───────────┘
                         │
                         ▼
-             ┌─────────────────────┐
-             │    REACT FRONTEND   │
-             └──────────┬──────────┘
+             ┌──────────────────────┐
+             │    REACT FRONTEND    │
+             └──────────┬───────────┘
                         │
                         ▼
-             ┌─────────────────────┐
-             │    FASTAPI BACKEND  │
-             └──────────┬──────────┘
+             ┌──────────────────────┐
+             │    FASTAPI BACKEND   │
+             └──────────┬───────────┘
                         │
-             ┌──────────┴──────────┐
-             ▼                     ▼
-      ┌──────────────┐      ┌──────────────┐
-      │   TAX ENGINE │      │  DATA/APIs   │
-      └──────┬───────┘      └──────┬───────┘
-             │                     │
-             └──────────┬──────────┘
+              ┌─────────┴─────────┐
+              ▼                   ▼
+       ┌─────────────┐     ┌─────────────┐
+       │  TAX ENGINE │     │  GST / APIs  │
+       └──────┬──────┘     └──────┬──────┘
+              │                   │
+              └─────────┬─────────┘
                         ▼
-             ┌─────────────────────┐
-             │       MYSQL         │
-             └─────────────────────┘
+                ┌──────────────┐
+                │    MYSQL     │
+                └──────────────┘
 ```
 
 </div>
-
----
-
-# 🧪 WHAT I'M LEARNING
-
-<div align="center">
-
-|         Area        | Technologies                     |
-| :-----------------: | :------------------------------- |
-|    🌐 Full Stack    | React • Node.js • FastAPI        |
-| 🧠 Machine Learning | Scikit-learn • XGBoost • NLP     |
-|       📊 Data       | Pandas • NumPy • Visualization   |
-|    🗄️ Databases    | MySQL • PostgreSQL               |
-|      ☁️ DevOps      | Docker • Git • GitHub            |
-|       🔌 APIs       | REST • WebSockets                |
-|        🎨 UI        | Tailwind CSS • Responsive Design |
-
-</div>
-
----
-
-# 💻 DEVELOPER MODE
-
-```python
-class Developer:
-
-    def __init__(self):
-        self.name = "Shivam Kumar"
-        self.role = "Full Stack Developer"
-        self.interests = [
-            "Software Engineering",
-            "Machine Learning",
-            "Data Analytics",
-            "Automation"
-        ]
-
-    def build(self):
-        return "Turning ideas into working software 🚀"
-
-    def learn(self):
-        return "Always improving 📚"
-
-    def mindset(self):
-        return "Build → Break → Fix → Ship"
-
-
-shivam = Developer()
-
-print(shivam.build())
-```
-
----
-
-# 📡 RECENT ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam100xdev&theme=react-dark&hide_border=true&area=true&custom_title=Recent%20Development%20Activity"/>
-
-</div>
-
----
-
-# 💭 DEVELOPER PHILOSOPHY
-
-<div align="center">
-
-### `"Build something useful. Then make it better."`
 
 <br>
 
-**Think → Build → Test → Deploy → Improve**
+<!-- ========================== CURRENT FOCUS ========================== -->
 
-</div>
+<table>
+<tr>
 
----
+<td width="50%" valign="top">
 
-# 🌐 LET'S CONNECT
+<h2>🧠 CURRENT FOCUS</h2>
+
+```text
+01  Full Stack Development
+02  Machine Learning
+03  Data Analytics
+04  REST API Architecture
+05  Database Design
+06  Automation
+07  Docker & Deployment
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>📚 LEARNING</h2>
+
+```text
+React        ████████████████░░  85%
+Python       █████████████████░  90%
+FastAPI      ██████████████░░░░  75%
+Machine ML   █████████████░░░░░  70%
+Docker       ███████████░░░░░░░  60%
+DSA          ████████████░░░░░░  65%
+```
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ========================== ACTIVITY ========================== -->
+
+<h2>⚡ DEVELOPMENT ACTIVITY</h2>
 
 <div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam100xdev&theme=github-compact&hide_border=true&area=true&custom_title=Recent%20Coding%20Activity"/>
+
+</div>
+
+<br>
+
+<!-- ========================== PHILOSOPHY ========================== -->
+
+<table>
+<tr>
+
+<td width="60%" valign="middle">
+
+<h2>💭 DEVELOPER PHILOSOPHY</h2>
+
+<h3>
+
+> Build something useful.<br>
+> Break it.<br>
+> Understand why.<br>
+> Fix it.<br>
+> Ship it better.
+
+</h3>
+
+</td>
+
+<td width="40%" align="center">
+
+```text
+╔══════════════════════╗
+║                      ║
+║   BUILD  🚀          ║
+║      ↓               ║
+║   LEARN  🧠          ║
+║      ↓               ║
+║   SHIP   ⚡          ║
+║      ↓               ║
+║   REPEAT 🔄          ║
+║                      ║
+╚══════════════════════╝
+```
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ========================== CONNECT ========================== -->
+
+<div align="center">
+
+## 🌐 LET'S CONNECT
+
 <a href="https://github.com/Shivam100xdev">
-<img src="https://img.shields.io/badge/GitHub-100xdev-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-100XDEV-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/Shivam100xdev">
-<img src="https://img.shields.io/badge/LinkedIn-Shivam%20Kumar-6A00FF?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LINKEDIN-SHIVAM%20KUMAR-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Shivam100xdev&label=PROFILE%20VIEWS&color=9333EA&style=flat-square"/>
+
+<br><br>
+
+### `⚡ Build • Learn • Ship • Repeat ⚡`
 
 </div>
 
@@ -378,11 +443,6 @@ print(shivam.build())
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B026FF,50:6A00FF,100:0D0717&height=120&section=footer"/>
-
-### ⭐ Thanks for visiting my profile!
-
-**Keep building. Keep learning. Keep shipping. 🚀**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:6A00FF,100:B026FF&height=120&section=footer"/>
 
 </div>
-
