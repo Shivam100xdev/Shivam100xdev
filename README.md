@@ -15,7 +15,7 @@ const intro = {
   inProgress: "ML",
   stack: ["js", "ts", "html5", "css", "c", "java", "python",  "go"],
   tools: ["NextJs", "React", "Tailwind", "Bootstrap", "NodeJs",  "Docker"],
-  proficient: "Backend",
+  proficient: "Frontend",
   onGoingWorks: {
     project: [
       { name: "Draw", description: "something 10k either" },
