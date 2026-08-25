@@ -1,15 +1,3 @@
-<h1 align="center">Hi, I'm Shivam 👋</h1>
-
-<p>
-  <b>Full-Stack Developer | Machine Learning & Data Enthusiast</b>
-</p>
-
-> [![GitHub Shivam100xdev](https://img.shields.io/github/followers/Shivam100xdev?label=follow\&style=social\&color=9F4BFF)](https://github.com/Shivam100xdev)   [![Public Repositories](https://img.shields.io/badge/Public_Repositories-View-9F4BFF?style=flat\&logo=github)](https://github.com/Shivam100xdev?tab=repositories)   [![Contact Me](https://img.shields.io/badge/Contact_Me-Email-%239F4BFF)](mailto:your-email@example.com)   ![Views](https://komarev.com/ghpvc/?username=Shivam100xdev\&label=Views\&color=9F4BFF\&style=flat)
-
-<hr>
-
-## Brief About Me!
-```js
 const intro = {
   name: "Shivam",
   type: "Programmer",
@@ -34,7 +22,7 @@ const intro = {
       src="https://img.icons8.com/ios-glyphs/30/9F4BFF/github.png"/>
   </a>
 
-  
+  
 
   <a href="https://linkedin.com/in/Shivam100xdev" target="_blank">
     <img width="32" height="32" title="LinkedIn" alt="LinkedIn"
