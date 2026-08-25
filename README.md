@@ -45,7 +45,7 @@ const intro = {
 
 </p>
 
-> <h4 align="left">Languages and Tools:</h4>
+ > <h4 align="left">Languages and Tools:</h4>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=11670&format=png&color=9F4BFF" alt="arduino" width="40" height="40"/></a>
   &#8287;
@@ -74,6 +74,7 @@ const intro = {
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=t9oCxEN7McHZ&format=png&color=9F4BFF" alt="react" width="40" height="40"/></a> 
   &#8287;
 </p>
+
 
 > <h4>STATS</h4>
 
