@@ -2,8 +2,7 @@
 
 **Full Stack Developer**
 
-[![Follow](https://img.shields.io/github/followers/Shivam100xdev?label=Follow&style=social)](https://github.com/Shivam100xdev)
-![Profile Views](https://komarev.com/ghpvc/?username=Shivam100xdev&color=blueviolet)
+> [![GitHub Shivam100xdev](https://img.shields.io/github/followers/Shivam100xdev?label=follow&style=social&color=9F4BFF)](https://github.com/Shivam100xdev) &#8287; [![All Contributor](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat&color=9F4BFF)](#contributor-) &#8287; ![Total Stars](https://img.shields.io/github/stars/Shivam100xdev?style=flat&color=9F4BFF) &#8287; [![Contact Me](https://img.shields.io/badge/Contact_Me-Email-%239F4BFF)](mailto:YOUR_EMAIL_HERE) &#8287; ![Views](https://komarev.com/ghpvc/?username=Shivam100xdev&label=Views&color=9F4BFF&style=flat)
 
 ---
 
