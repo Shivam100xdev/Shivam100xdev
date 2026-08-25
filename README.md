@@ -8,65 +8,24 @@
 
 <hr>
 
-**Brief About Me!**
-
+## Brief About Me!
 ```js
-const shivam = {
-  role: "Full-Stack Developer & ML Enthusiast",
-
-  languages: [
-    "JavaScript",
-    "Python",
-    "Java",
-    "C"
-  ],
-
-  frontend: [
-    "HTML",
-    "CSS",
-    "React",
-    "Tailwind CSS"
-  ],
-
-  backend: [
-    "Node.js",
-    "Express",
-    "FastAPI"
-  ],
-
-  databases: [
-    "MySQL"
-  ],
-
-  machineLearning: [
-    "Scikit-learn",
-    "XGBoost",
-    "Random Forest",
-    "NLP"
-  ],
-
-  tools: [
-    "Git",
-    "GitHub",
-    "Docker",
-    "VS Code",
-    "Postman"
-  ],
-
-  currentlyBuilding: [
-    "Gig Worker Tax & Compliance Automation",
-    "Machine Learning Prediction Systems"
-  ],
-
-  currentlyLearning: [
-    "Advanced Full-Stack Development",
-    "Machine Learning",
-    "System Design"
-  ],
-
-  funFact: "I learn best by building real projects 🚀"
+const intro = {
+  name: "Shivam",
+  type: "Programmer",
+  inProgress: "ML",
+  stack: ["js", "ts", "html5", "css", "c", "java", "python",  "go"],
+  tools: ["NextJs", "React", "Tailwind", "Bootstrap", "NodeJs",  "Docker"],
+  proficient: "Backend",
+  onGoingWorks: {
+    project: [
+      { name: "Draw", description: "something 10k either" },
+      { name: "Dashboard", description: "Discord bot dashboard that provides all type of bot customization via dashboard." }
+    ],
+    learnerType: "self",
+  }
 };
-```
+
 
 <p align="left">
 
