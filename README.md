@@ -1,35 +1,164 @@
-# Hi, this is Shivam 👋
+<h1 align="center">Hi, I'm Shivam 👋</h1>
 
-**Full Stack Developer**
+<p>
+  <b>Full-Stack Developer | Machine Learning & Data Enthusiast</b>
+</p>
 
-[![Follow](https://img.shields.io/github/followers/Shivam100xdev?label=Follow&style=social)](https://github.com/Shivam100xdev)
-![Profile Views](https://komarev.com/ghpvc/?username=Shivam100xdev&color=blueviolet)
+> [![GitHub Shivam100xdev](https://img.shields.io/github/followers/Shivam100xdev?label=follow\&style=social\&color=9F4BFF)](https://github.com/Shivam100xdev)   [![Public Repositories](https://img.shields.io/badge/Public_Repositories-View-9F4BFF?style=flat\&logo=github)](https://github.com/Shivam100xdev?tab=repositories)   [![Contact Me](https://img.shields.io/badge/Contact_Me-Email-%239F4BFF)](mailto:your-email@example.com)   ![Views](https://komarev.com/ghpvc/?username=Shivam100xdev\&label=Views\&color=9F4BFF\&style=flat)
 
----
+<hr>
 
-## Brief About Me!
+**Brief About Me!**
+
 ```js
-const intro = {
-  name: "Shivam",
-  type: "Programmer",
-  inProgress: "ML",
-  stack: ["js", "ts", "html5", "css", "c", "java", "python",  "go"],
-  tools: ["NextJs", "React", "Tailwind", "Bootstrap", "NodeJs",  "Docker"],
-  proficient: "Frontend",
-  onGoingWorks: {
-    project: [
-      { name: "Draw", description: "something 10k either" },
-      { name: "Dashboard", description: "Discord bot dashboard that provides all type of bot customization via dashboard." }
-    ],
-    learnerType: "self",
-  }
+const shivam = {
+  role: "Full-Stack Developer & ML Enthusiast",
+
+  languages: [
+    "JavaScript",
+    "Python",
+    "Java",
+    "C"
+  ],
+
+  frontend: [
+    "HTML",
+    "CSS",
+    "React",
+    "Tailwind CSS"
+  ],
+
+  backend: [
+    "Node.js",
+    "Express",
+    "FastAPI"
+  ],
+
+  databases: [
+    "MySQL"
+  ],
+
+  machineLearning: [
+    "Scikit-learn",
+    "XGBoost",
+    "Random Forest",
+    "NLP"
+  ],
+
+  tools: [
+    "Git",
+    "GitHub",
+    "Docker",
+    "VS Code",
+    "Postman"
+  ],
+
+  currentlyBuilding: [
+    "Gig Worker Tax & Compliance Automation",
+    "Machine Learning Prediction Systems"
+  ],
+
+  currentlyLearning: [
+    "Advanced Full-Stack Development",
+    "Machine Learning",
+    "System Design"
+  ],
+
+  funFact: "I learn best by building real projects 🚀"
 };
 ```
 
----
-<p> <a href="https://github.com/Shivam100xdev"><img width="32px" height="32px" title="GitHub" alt="GitHub" src="https://img.icons8.com/?size=100&id=106562&format=png&color=9F4BFF"></a> &#8287;&#8287; <a href="https://linkedin.com/in/Shivam100xdev" target="blank"><img width="32px" height="32px" title="linkedin" alt="linkedin" src="https://img.icons8.com/?size=100&id=8808&format=png&color=9F4BFF"></a> </p>
-<h4 align="left">Languages and Tools:</h4>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=11670&format=png&color=9F4BFF" alt="arduino" width="40" height="40"/></a> &#8287; <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=K6tPX3M1iHhY&format=png&color=9F4BFF" alt="c" width="40" height="40"></a> &#8287; <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=38272&format=png&color=9F4BFF" alt="css3" width="40" height="40"/></a> &#8287; <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=7hA5Ny9rDAmV&format=png&color=9F4BFF" alt="html5" width="40" height="40"/></a> &#8287; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=102838&format=png&color=9F4BFF" alt="javascript" width="40" height="40"/></a> &#8287; <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=39855&format=png&color=9F4BFF" alt="mysql" width="40" height="40"/></a> &#8287; <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=86631&format=png&color=9F4BFF" alt="photoshop" width="40" height="40"/></a> &#8287; <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=24045&format=png&color=9F4BFF" alt="python" width="40" height="40"/></a> &#8287; <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=35989&format=png&color=9F4BFF" alt="react" width="40" height="40"/></a> &#8287; <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=UpSCHTwpywad&format=png&color=9F4BFF" alt="tailwind" width="40" height="40"/></a> &#8287; <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=54087&format=png&color=9F4BFF" alt="nodejs" width="40" height="40"/></a> &#8287; <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=9F4BFF" alt="expressjs" width="40" height="40"/></a> &#8287; <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=22813&format=png&color=9F4BFF" alt="docker" width="40" height="40"/></a> &#8287; <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=13679&format=png&color=9F4BFF" alt="java" width="40" height="40"/></a> &#8287; <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=20906&format=png&color=9F4BFF" alt="git" width="40" height="40"/></a> </p>
-<h4>STATS</h4>
-<p> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivam100xdev&theme=midnight_purple" width="40%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivam100xdev&theme=midnight_purple" width="40%"> </p> <p> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam100xdev&theme=midnight_purple" width="80%"> </p>
+<p align="left">
 
+  <a href="https://github.com/Shivam100xdev" target="_blank">
+    <img width="32" height="32" title="GitHub" alt="GitHub"
+      src="https://img.icons8.com/ios-glyphs/30/9F4BFF/github.png"/>
+  </a>
+
+  
+
+  <a href="https://linkedin.com/in/Shivam100xdev" target="_blank">
+    <img width="32" height="32" title="LinkedIn" alt="LinkedIn"
+      src="https://img.icons8.com/ios-filled/50/9F4BFF/linkedin.png"/>
+  </a>
+
+</p>
+
+> <h4 align="left">Languages and Tools:</h4>
+
+<p align="left">
+
+  <!-- Languages -->
+
+  <img src="https://img.icons8.com/color/48/python.png" title="Python"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java"/>
+  <img src="https://img.icons8.com/color/48/c-programming.png" title="C"/>
+
+  <!-- Frontend -->
+
+  <img src="https://img.icons8.com/color/48/html-5.png" title="HTML5"/>
+  <img src="https://img.icons8.com/color/48/css3.png" title="CSS3"/>
+  <img src="https://img.icons8.com/color/48/react-native.png" title="React"/>
+  <img src="https://img.icons8.com/color/48/tailwind_css.png" title="Tailwind CSS"/>
+
+  <!-- Backend -->
+
+  <img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js"/>
+  <img src="https://img.icons8.com/color/48/express-js.png" title="Express"/>
+
+  <!-- Database -->
+
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL"/>
+
+  <!-- Tools -->
+
+  <img src="https://img.icons8.com/color/48/git.png" title="Git"/>
+  <img src="https://img.icons8.com/color/48/github.png" title="GitHub"/>
+  <img src="https://img.icons8.com/color/48/docker.png" title="Docker"/>
+  <img src="https://img.icons8.com/color/48/postman-api.png" title="Postman"/>
+
+</p>
+
+> <h4>STATS</h4>
+
+<p>
+
+<img
+ src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivam100xdev&theme=midnight_purple"
+ width="40%"
+/>
+
+<img
+ src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivam100xdev&theme=midnight_purple"
+ width="40%"
+/>
+
+</p>
+
+<p>
+
+<img
+ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam100xdev&theme=midnight_purple"
+ width="80%"
+/>
+
+</p>
+
+> <h4>🔥 Contribution Momentum</h4>
+
+<p align="left">
+
+<img
+ src="https://streak-stats.demolab.com?user=Shivam100xdev&theme=midnight_purple&hide_border=true&background=0d1117&ring=9F4BFF&fire=00F5FF&currStreakLabel=9F4BFF"
+/>
+
+</p>
+
+<hr>
+
+<p align="center">
+
+<i>"Build. Learn. Improve. Repeat. 🚀"</i>
+
+</p>
