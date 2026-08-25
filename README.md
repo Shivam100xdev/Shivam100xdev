@@ -46,39 +46,33 @@ const intro = {
 </p>
 
 > <h4 align="left">Languages and Tools:</h4>
-
 <p align="left">
-
-  <!-- Languages -->
-
-  <img src="https://img.icons8.com/color/48/python.png" title="Python"/>
-  <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java"/>
-  <img src="https://img.icons8.com/color/48/c-programming.png" title="C"/>
-
-  <!-- Frontend -->
-
-  <img src="https://img.icons8.com/color/48/html-5.png" title="HTML5"/>
-  <img src="https://img.icons8.com/color/48/css3.png" title="CSS3"/>
-  <img src="https://img.icons8.com/color/48/react-native.png" title="React"/>
-  <img src="https://img.icons8.com/color/48/tailwind_css.png" title="Tailwind CSS"/>
-
-  <!-- Backend -->
-
-  <img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js"/>
-  <img src="https://img.icons8.com/color/48/express-js.png" title="Express"/>
-
-  <!-- Database -->
-
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL"/>
-
-  <!-- Tools -->
-
-  <img src="https://img.icons8.com/color/48/git.png" title="Git"/>
-  <img src="https://img.icons8.com/color/48/github.png" title="GitHub"/>
-  <img src="https://img.icons8.com/color/48/docker.png" title="Docker"/>
-  <img src="https://img.icons8.com/color/48/postman-api.png" title="Postman"/>
-
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=11670&format=png&color=9F4BFF" alt="arduino" width="40" height="40"/></a>
+  &#8287;
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=K6tPX3M1iHhY&format=png&color=9F4BFF" alt="c" width="40" height="40"></a> 
+  &#8287;
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=38272&format=png&color=9F4BFF" alt="css3" width="40" height="40"/></a> 
+  &#8287;
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=7hA5Ny9rDAmV&format=png&color=9F4BFF" alt="html5" width="40" height="40"/></a> 
+  &#8287;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=102838&format=png&color=9F4BFF" alt="javascript" width="40" height="40"/></a> 
+  &#8287;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=39855&format=png&color=9F4BFF" alt="mysql" width="40" height="40"/></a> 
+  &#8287;
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=86631&format=png&color=9F4BFF" alt="photoshop" width="40" height="40"/></a> 
+  &#8287;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=24045&format=png&color=9F4BFF" alt="python" width="40" height="40"/></a> 
+  &#8287;
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=35989&format=png&color=9F4BFF" alt="react" width="40" height="40"/></a> 
+  &#8287;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=UpSCHTwpywad&format=png&color=9F4BFF" alt="tailwind" width="40" height="40"/></a> 
+&#8287;
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=9F4BFF" alt="react" width="40" height="40"/></a> 
+  &#8287;
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=9F4BFF" alt="react" width="40" height="40"/></a> 
+  &#8287;
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=t9oCxEN7McHZ&format=png&color=9F4BFF" alt="react" width="40" height="40"/></a> 
+  &#8287;
 </p>
 
 > <h4>STATS</h4>
