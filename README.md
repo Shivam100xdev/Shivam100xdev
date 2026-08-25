@@ -1,3 +1,14 @@
+# Hi, this is Shivam 👋
+
+**Full Stack Developer**
+
+[![Follow](https://img.shields.io/github/followers/Shivam100xdev?label=Follow&style=social)](https://github.com/Shivam100xdev)
+![Profile Views](https://komarev.com/ghpvc/?username=Shivam100xdev&color=blueviolet)
+
+---
+
+## Brief About Me!
+```js
 const intro = {
   name: "Shivam",
   type: "Programmer",
@@ -13,6 +24,10 @@ const intro = {
     learnerType: "self",
   }
 };
+```
+
+
+
 
 
 <p align="left">
