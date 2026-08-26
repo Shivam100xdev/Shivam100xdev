@@ -98,6 +98,7 @@ const intro = {
 
 </p>
 
+
 <hr>
 
 <p align="center">
@@ -105,3 +106,6 @@ const intro = {
 <i>"Build. Learn. Improve. Repeat. 🚀"</i>
 
 </p>
+
+![Most Starred Repo](https://github-readme-stats.vercel.app/api/pin/?username=Shivam100xdev&repo=Discord-Moderation-Bot&title_color=9F4BFF&bg_color=000000)](https://github.com/Shivam100xdev/Discord-Moderation-Bot) &#8287;
+[![Most Starred Repo](https://github-readme-stats.vercel.app/api/pin/?username=Shivam100xdev&repo=B-W-Web&title_color=9F4BFF&bg_color=000)](https://github.com/Shivam100xdev/B-W-Web)
