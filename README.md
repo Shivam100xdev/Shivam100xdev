@@ -14,11 +14,11 @@ const intro = {
   inProgress: "ML",
   stack: ["js", "ts", "html5", "css", "c", "java", "python",  "go"],
   tools: ["NextJs", "React", "Tailwind", "Bootstrap", "NodeJs",  "Docker"],
-  proficient: "Backend",
+  proficient: "Frontend",
   onGoingWorks: {
     project: [
-      { name: "Draw", description: "something 10k either" },
-      { name: "Dashboard", description: "Discord bot dashboard that provides all type of bot customization via dashboard." }
+      { name: "HSN", description: "AI Bot" },
+      { name: "Dashboard", description: "AI bot dashboard that provides all type of bot customization via dashboard." }
     ],
     learnerType: "self",
   }
