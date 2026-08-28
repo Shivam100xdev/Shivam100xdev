@@ -94,9 +94,4 @@ const intro = {
   <img src="https://streak-stats.demolab.com?user=Shivam100xdev&theme=midnight_purple&hide_border=true&background=0d1117&ring=9F4BFF&fire=00F5FF&currStreakLabel=9F4BFF" />
 </p>
 
-<p align="center">
-
-<i>"Build. Learn. Improve. Repeat. 🚀"</i>
-
-</p>
-
+---
