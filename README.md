@@ -88,10 +88,11 @@ const intro = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam100xdev&theme=midnight_purple" width="80%">
 </p>
 
-> <h4> Contribution Momentum </h4>
+> <h4>🔥 Contribution Momentum</h4>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=Shivam100xdev&theme=midnight_purple&hide_border=true&background=0d1117&ring=9F4BFF&fire=00F5FF&currStreakLabel=9F4BFF" />
+  <img 
+    src="https://streak-stats.demolab.com?user=Shivam100xdev&theme=midnight-purple&hide_border=true&background=0D1117&ring=9F4BFF&fire=00F5FF&currStreakLabel=9F4BFF"
+    alt="Shivam100xdev GitHub Streak"
+  />
 </p>
-
----
