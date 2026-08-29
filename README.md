@@ -91,8 +91,8 @@ const intro = {
 > <h4>🔥 Contribution Momentum</h4>
 
 <p align="left">
-  <img 
-    src="https://streak-stats.demolab.com?user=Shivam100xdev&theme=midnight-purple&hide_border=true&background=0D1117&ring=9F4BFF&fire=00F5FF&currStreakLabel=9F4BFF"
-    alt="Shivam100xdev GitHub Streak"
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivam100xdev&theme=midnight_purple&utcOffset=5.5"
+    alt="Shivam100xdev Productive Time"
   />
 </p>
