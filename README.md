@@ -92,7 +92,8 @@ const intro = {
 
 <p align="left">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivam100xdev&theme=midnight_purple&utcOffset=5.5"
-    alt="Shivam100xdev Productive Time"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam100xdev&theme=react-dark&hide_border=true"
+    alt="Shivam100xdev Contribution Graph"
+    width="95%"
   />
 </p>
