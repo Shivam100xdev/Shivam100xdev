@@ -74,7 +74,7 @@ const intro = {
   &#8287;
 </p>
 
-> <h4>STATS</h4>
+ <h4>STATS</h4>
 
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivam100xdev&theme=midnight_purple" width="40%">
