@@ -28,206 +28,50 @@ const intro = {
 
 
 
-
 <p align="left">
 
-  <!-- GitHub -->
   <a href="https://github.com/Shivam100xdev" target="_blank">
-    <img
-      width="32"
-      height="32"
-      title="GitHub"
-      alt="GitHub"
-      src="https://img.icons8.com/ios-glyphs/30/9F4BFF/github.png"
-    />
+    <img width="32" height="32" title="GitHub" alt="GitHub"
+      src="https://img.icons8.com/ios-glyphs/30/9F4BFF/github.png"/>
   </a>
 
-  &#8287;&#8287;
+  
 
-  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/Shivam100xdev" target="_blank">
-    <img
-      width="32"
-      height="32"
-      title="LinkedIn"
-      alt="LinkedIn"
-      src="https://img.icons8.com/ios-filled/50/9F4BFF/linkedin.png"
-    />
+    <img width="32" height="32" title="LinkedIn" alt="LinkedIn"
+      src="https://img.icons8.com/ios-filled/50/9F4BFF/linkedin.png"/>
   </a>
 
 </p>
 
-> <h4 align="left">Languages and Tools:</h4>
-
+ > <h4 align="left">Languages and Tools:</h4>
 <p align="left">
-
-  <!-- C -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.icons8.com/?size=100&id=K6tPX3M1iHhY&format=png&color=9F4BFF"
-      alt="C"
-      title="C"
-      width="40"
-      height="40"
-    />
-  </a>
-
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=11670&format=png&color=9F4BFF" alt="arduino" width="40" height="40"/></a>
   &#8287;
-
-  <!-- HTML -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.icons8.com/?size=100&id=7hA5Ny9rDAmV&format=png&color=9F4BFF"
-      alt="HTML5"
-      title="HTML5"
-      width="40"
-      height="40"
-    />
-  </a>
-
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=K6tPX3M1iHhY&format=png&color=9F4BFF" alt="c" width="40" height="40"></a> 
   &#8287;
-
-  <!-- CSS -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.icons8.com/?size=100&id=38272&format=png&color=9F4BFF"
-      alt="CSS3"
-      title="CSS3"
-      width="40"
-      height="40"
-    />
-  </a>
-
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=38272&format=png&color=9F4BFF" alt="css3" width="40" height="40"/></a> 
   &#8287;
-
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.icons8.com/?size=100&id=102838&format=png&color=9F4BFF"
-      alt="JavaScript"
-      title="JavaScript"
-      width="40"
-      height="40"
-    />
-  </a>
-
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=7hA5Ny9rDAmV&format=png&color=9F4BFF" alt="html5" width="40" height="40"/></a> 
   &#8287;
-
-  <!-- Python -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.icons8.com/?size=100&id=24045&format=png&color=9F4BFF"
-      alt="Python"
-      title="Python"
-      width="40"
-      height="40"
-    />
-  </a>
-
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=102838&format=png&color=9F4BFF" alt="javascript" width="40" height="40"/></a> 
   &#8287;
-
-  <!-- Java -->
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.icons8.com/?size=100&id=13679&format=png&color=9F4BFF"
-      alt="Java"
-      title="Java"
-      width="40"
-      height="40"
-    />
-  </a>
-
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=39855&format=png&color=9F4BFF" alt="mysql" width="40" height="40"/></a> 
   &#8287;
-
-  <!-- React -->
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.icons8.com/?size=100&id=35989&format=png&color=9F4BFF"
-      alt="React"
-      title="React"
-      width="40"
-      height="40"
-    />
-  </a>
-
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=86631&format=png&color=9F4BFF" alt="photoshop" width="40" height="40"/></a> 
   &#8287;
-
-  <!-- Tailwind CSS -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.icons8.com/?size=100&id=UpSCHTwpywad&format=png&color=9F4BFF"
-      alt="Tailwind CSS"
-      title="Tailwind CSS"
-      width="40"
-      height="40"
-    />
-  </a>
-
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=24045&format=png&color=9F4BFF" alt="python" width="40" height="40"/></a> 
   &#8287;
-
-  <!-- Node.js -->
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.icons8.com/?size=100&id=54087&format=png&color=9F4BFF"
-      alt="Node.js"
-      title="Node.js"
-      width="40"
-      height="40"
-    />
-  </a>
-
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=35989&format=png&color=9F4BFF" alt="react" width="40" height="40"/></a> 
   &#8287;
-
-  <!-- Express -->
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=9F4BFF"
-      alt="Express.js"
-      title="Express.js"
-      width="40"
-      height="40"
-    />
-  </a>
-
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=UpSCHTwpywad&format=png&color=9F4BFF" alt="tailwind" width="40" height="40"/></a> 
+&#8287;
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=9F4BFF" alt="react" width="40" height="40"/></a> 
   &#8287;
-
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.icons8.com/?size=100&id=39855&format=png&color=9F4BFF"
-      alt="MySQL"
-      title="MySQL"
-      width="40"
-      height="40"
-    />
-  </a>
-
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=9F4BFF" alt="react" width="40" height="40"/></a> 
   &#8287;
-
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.icons8.com/?size=100&id=22813&format=png&color=9F4BFF"
-      alt="Docker"
-      title="Docker"
-      width="40"
-      height="40"
-    />
-  </a>
-
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=t9oCxEN7McHZ&format=png&color=9F4BFF" alt="react" width="40" height="40"/></a> 
   &#8287;
-
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.icons8.com/?size=100&id=20906&format=png&color=9F4BFF"
-      alt="Git"
-      title="Git"
-      width="40"
-      height="40"
-    />
-  </a>
-
 </p>
 
 > <h4>STATS</h4>
