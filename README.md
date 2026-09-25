@@ -77,13 +77,25 @@ const intro = {
 > <h4>STATS</h4>
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivam100xdev&theme=midnight_purple" width="40%">
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivam100xdev&theme=midnight_purple" width="40%">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivam100xdev&theme=midnight_purple"
+    width="40%"
+    alt="Most Used Languages"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivam100xdev&theme=midnight_purple"
+    width="40%"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam100xdev&theme=midnight_purple" width="80%">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam100xdev&theme=midnight_purple"
+    width="80%"
+    alt="GitHub Profile Details"
+  />
 </p>
 
 > <h4> Contribution Momentum </h4>
