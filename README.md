@@ -96,7 +96,14 @@ const intro = {
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/Shivam100xdev/Shivam100xdev/activity-assets/activity-365d.svg"
-    alt="GitHub contribution activity"
+    alt="GitHub contribution activity for the last 365 days"
   />
 </p>
----
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Shivam100xdev/Shivam100xdev/activity-assets/activity-30d.svg">30 Days</a>
+  ·
+  <a href="https://raw.githubusercontent.com/Shivam100xdev/Shivam100xdev/activity-assets/activity-90d.svg">90 Days</a>
+  ·
+  <a href="https://raw.githubusercontent.com/Shivam100xdev/Shivam100xdev/activity-assets/activity-365d.svg">365 Days</a>
+</p>
