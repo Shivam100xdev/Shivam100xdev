@@ -17,8 +17,8 @@ const intro = {
   proficient: "Frontend",
   onGoingWorks: {
     project: [
-      { name: "HSN", description: "AI Bot" },
-      { name: "Dashboard", description: "AI bot dashboard that provides all type of bot customization via dashboard." }
+      { name: "ITR Automation" },
+      { name: "Dashboard", description: "Filling ITR " }
     ],
     learnerType: "self",
   }
